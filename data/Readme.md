@@ -1,3 +1,3 @@
 # Readme
 
-This is directory for test data
+This is a directory for test data
